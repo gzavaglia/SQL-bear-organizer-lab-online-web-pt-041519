@@ -1,2 +1,4 @@
-INSERT INTO students (name, grade, gpa, tardies)
-    VALUES ("John", 11, 3.4, 3);
+INSERT INTO students (name, age, gender, color, temperament, alive)
+    VALUES ("Mr. Chocolate", 5, "Male", "Brown", "OK", 1);
+INSERT INTO students (name, age, gender, color, temperament, alive)
+    VALUES ("Rowdy", 2, "Male", "Brown", "OK", 0);
